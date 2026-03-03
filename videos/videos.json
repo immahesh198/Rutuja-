@@ -1,4 +1,10 @@
 [
-  { "title": "Artemis II Mission", "file": "artemis1.mp4", "desc": "Your description" },
-  { "title": "New Video Name", "file": "newvideo.mp4", "desc": "Optional desc" }
+  {
+    "title": "Artemis I Explained",
+    "file": "artemis1.mp4",
+    "thumbnail": "episode1.thumb.jpg",
+    "desc": "Artemis I Mission — RTJ Original",
+    "badge": "RTJ ORIGINAL",
+    "duration": "12:00"
+  }
 ]
