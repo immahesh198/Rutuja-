@@ -1,6 +1,4 @@
 [
-  {
-    "title": "Artemis II Mission",
-    "file": "artemis1.mp4"
-  }
+  { "title": "Artemis II Mission", "file": "artemis1.mp4", "desc": "Your description" },
+  { "title": "New Video Name", "file": "newvideo.mp4", "desc": "Optional desc" }
 ]
